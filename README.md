@@ -17,6 +17,11 @@ Open up the config.ru file and set the root to whatever you want...
 ```ruby
  set :file_root, '/Users/tom/git/jqueryfiletree_sinatra/public'
 ```
+## Running
+
+```sh
+rackup config.ru
+```
 
 ## Notes
 
