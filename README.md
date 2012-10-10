@@ -4,8 +4,7 @@ This is an example of using JQueryFileTree with Sinatra.
 
 This is meant to be a bare-bones minimalist example of how to get JQueryFileTree to work with Sinatra.
 
-[![Example](https://github.com/tomjoro/jqueryfiletree_sinatra/blob/master/jquery_filetree.jpg)]
-
+![Example Screenshot](https://raw.github.com/tomjoro/jqueryfiletree_sinatra/master/jquery_filetree.png)
 
 ## Installation
 
